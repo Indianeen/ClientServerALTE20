@@ -13,3 +13,22 @@
 - "Bottar" (Hårdkodade)
 - Spara informationen (lång- & kortsikt)
 ****
+
+## Template Loggbok
+{
+###xx-xx
+
+####Frågor / Funderingar
+
+****
+}
+##Loggbok
+****
+###02-09
+- Anteckna förväntade funktioner av program
+- Skapat package 
+- Skapat klasser (MVC)
+####Frågor / Funderingar
+- Designa gui 
+- Vilken kod kan man ta från repo?
+****
