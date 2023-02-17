@@ -3,6 +3,7 @@ package Server;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.util.List;
 import java.util.Scanner;
 
 public class Core {
@@ -43,6 +44,32 @@ public class Core {
     }
 
     private void runProtocol() {
+        Scanner tgb = new Scanner(System.in);
+        System.out.println("chatting:..");
+        String msg = "";
+        while (!msg.equals("QUIT")) {
+            msg = tgb.nextLine();
+            out.println("SERVER: " + msg);
+        }
+    }
 
+    public static void main(String[] args) throws InterruptedException {
+        Server s = new Server(1234);
+        s.acceptClient();
+        s.getStreams();
+        ListenerThread 1 = new ListenerThread(s.in, System.out  );
+        Thread listener = new Thread(1);
+        listener.start();
+        s.runProtocol();
+        listener.join();
+        s.shutdown();
+    }
+
+    private void shutdown() {
+        try {
+            client.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

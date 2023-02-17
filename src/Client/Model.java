@@ -1,4 +1,3 @@
 package Client;
 
-public class Model {
-}
+public class Model {}

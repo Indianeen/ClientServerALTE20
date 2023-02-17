@@ -48,3 +48,14 @@
 * gui
 * [koda]
 ****
+###02-17
+* skpa main
+* skriva view
+####Frågor / Funderingar
+* GUI
+* Saker att tänka på
+####Att göra
+* GUI
+* [koda]
+* anpassa kod
+****
