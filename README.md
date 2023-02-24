@@ -1,4 +1,5 @@
 #Chatprogram
+
 ##Funktioner
 ****
 - Föra information mellan klient och servern 
@@ -7,11 +8,16 @@
 
 ****
 ###Vidare funktioner 
+
 (Kan komma användas senare)
 ****
 - Flera klienter (Server = mellanhand)
 - "Bottar" (Hårdkodade)
 - Spara informationen (lång- & kortsikt)
+****
+
+Core = Controller
+
 ****
 
 ## Template Loggbok

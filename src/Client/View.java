@@ -8,7 +8,11 @@ public class View {
     private JButton closeProgram;
 
 
-    public JPanel getViewPanel;
-    public JButton getSendButton;
-    public JButton getCloseProgram;
+    public JPanel getViewPanel() {
+        return viewPanel;
+    }
+
+    // sendButton = new JButton();
+    // sendButton.setText("Send")
+
 }
