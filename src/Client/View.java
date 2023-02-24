@@ -14,5 +14,8 @@ public class View {
 
     // sendButton = new JButton();
     // sendButton.setText("Send")
+    private void {
+        viewPanel.add(sendButton, new )
+    }
 
 }

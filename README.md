@@ -65,3 +65,12 @@ Core = Controller
 * [koda]
 * anpassa kod
 ****
+###02-24
+* skriva view
+####Frågor / Funderingar
+* GUI - skapa
+* Att komma ihåg/tänka på
+####Att göra
+* GUI
+* [koda]
+****
