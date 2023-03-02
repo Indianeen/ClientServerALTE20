@@ -1,5 +1,6 @@
 package Client;
 
+import javax.swing.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -11,8 +12,11 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Core {
-    Socket socket;
 
+    Model model = new Model();
+    View view = new View();
+
+    Socket socket;
     PrintWriter out;
     BufferedReader in;
 
@@ -63,4 +67,12 @@ public class Core {
             e.printStackTrace();
         }
     }
+
+
+
+
+
+    JFrame frame = new
+            setContentPane
+
 }

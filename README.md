@@ -74,3 +74,11 @@ Core = Controller
 * GUI
 * [koda]
 ****
+###03-02
+* Haft problem
+####Frågor / Funderingar
+* Samma som tidigare
+####Att göra
+* GUI
+* [koda]
+****

@@ -12,6 +12,8 @@ public class View {
         return viewPanel;
     }
 
+
+
     // sendButton = new JButton();
     // sendButton.setText("Send")
     private void {

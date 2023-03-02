@@ -7,6 +7,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Core {
+    Model model = new Model();
+    View view = new View();
     ServerSocket server;
     Socket client;
 
