@@ -23,11 +23,11 @@ Core = Controller
 ## Template Loggbok
 {
 ### xx-xx
-*  
+* |
 #### Frågor / Funderingar
-* 
+* |
 #### Att göra
-* 
+* |
 ****
 }
 ## Loggbok
@@ -81,4 +81,16 @@ Core = Controller
 #### Att göra
 * GUI
 * [koda]
+****
+### 03-03
+* Justerat README.md
+* Skapat View.form
+#### Frågor / Funderingar
+* Hjälp med GUI
+#### Att göra
+* GUI
+* [koda]
+
+#### anteckning
+    Java -jar ---.jar
 ****
