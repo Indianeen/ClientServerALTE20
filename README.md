@@ -1,13 +1,13 @@
-#Chatprogram
+# Chatprogram
 
-##Funktioner
+## Funktioner
 ****
 - Föra information mellan klient och servern 
 - Mata in information 
 - Skriva ut information
 
 ****
-###Vidare funktioner 
+### Vidare funktioner 
 
 (Kan komma användas senare)
 ****
@@ -22,63 +22,63 @@ Core = Controller
 
 ## Template Loggbok
 {
-###xx-xx
+### xx-xx
 *  
-####Frågor / Funderingar
+#### Frågor / Funderingar
 * 
-####Att göra
+#### Att göra
 * 
 ****
 }
-##Loggbok
+## Loggbok
 ****
-###02-09
+### 02-09
 * Anteckna förväntade funktioner av program
 * Skapat package 
 * Skapat klasser (MVC)
-####Frågor / Funderingar
+#### Frågor / Funderingar
 * Designa gui 
 * Vilken kod kan man ta från repo?
-####Att göra
+#### Att göra
 * gui
 * [koda]
 ****
-###02-10
+### 02-10
 * Läst igenom och skrivit in kod från repo
 * Justerat loggbok
-####Frågor / Funderingar
+#### Frågor / Funderingar
 * Designa gui
 * Tips 
-####Att göra
+#### Att göra
 * anpassa kod
 * gui
 * [koda]
 ****
-###02-17
+### 02-17
 * skpa main
 * skriva view
-####Frågor / Funderingar
+#### Frågor / Funderingar
 * GUI
 * Saker att tänka på
-####Att göra
+#### Att göra
 * GUI
 * [koda]
 * anpassa kod
 ****
-###02-24
+### 02-24
 * skriva view
-####Frågor / Funderingar
+#### Frågor / Funderingar
 * GUI - skapa
 * Att komma ihåg/tänka på
-####Att göra
+#### Att göra
 * GUI
 * [koda]
 ****
-###03-02
+### 03-02
 * Haft problem
-####Frågor / Funderingar
+#### Frågor / Funderingar
 * Samma som tidigare
-####Att göra
+#### Att göra
 * GUI
 * [koda]
 ****
